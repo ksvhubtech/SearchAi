@@ -12,22 +12,7 @@
 
 ---
 
-## 📂 Project File Structure
 
-```bash
-search-ai-chatbot/
-│── static/
-│   ├── styles.css
-│── templates/
-│   ├── index.html
-│── model/
-│   ├── search_model.pkl
-│── app.py
-│── requirements.txt
-│── google_api.py
-│── train_model.py
-│── README.md
-```
 
 ---
 
